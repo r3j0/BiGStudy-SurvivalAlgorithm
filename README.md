@@ -24,7 +24,7 @@
   </tbody>
 </table>
 
-## 9월 첫째주 활동 (9/1 ~ 9/7)
+## [9월 첫째주 활동 (9/1 ~ 9/7)](https://github.com/r3j0/BiGStudy-SurvivalAlgorithm/tree/main/2024-09-1)
 1. [(08.31) 😠 서바이벌 스터디 승급전](https://www.acmicpc.net/group/practice/view/21592/8) 연습문제 세트
 > ### 멤버별 활동 진행도
 > rejo : 0 / 7 (0%)
