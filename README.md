@@ -23,14 +23,14 @@
     </tr>
     <tr>
       <td>Member</td>
-      <td></td>
+      <td><image width="50" src="https://avatars.githubusercontent.com/u/101111603?v=4"></td>
       <td><a href="https://solved.ac/profile/merrong925">merrong925</a></td>
       <td>2024.08.31 ~ <b>Present</b></td>
       <td></td>
     </tr>
     <tr>
       <td>Member</td>
-      <td></td>
+      <td><image width="50" src="https://avatars.githubusercontent.com/u/83436753?v=4"></td>
       <td><a href="https://solved.ac/profile/phd123">phd123</a></td>
       <td>2024.08.31 ~ <b>Present</b></td>
       <td></td>
