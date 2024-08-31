@@ -21,6 +21,20 @@
       <td>2024.08.31 ~ <b>Present</b></td>
       <td></td>
     </tr>
+    <tr>
+      <td>Member</td>
+      <td></td>
+      <td><a href="https://solved.ac/profile/merrong925">merrong925</a></td>
+      <td>2024.08.31 ~ <b>Present</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Member</td>
+      <td></td>
+      <td><a href="https://solved.ac/profile/phd123">phd123</a></td>
+      <td>2024.08.31 ~ <b>Present</b></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
