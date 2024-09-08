@@ -25,20 +25,19 @@
       <td><a href="https://solved.ac/profile/merrong925">merrong925</a></td>
       <td>2024.08.31 ~ <b>Present</b></td>
     </tr>
-    <tr>
-      <td>Member</td>
-      <td><image width="50" src="https://avatars.githubusercontent.com/u/83436753?v=4"></td>
-      <td><a href="https://solved.ac/profile/phd123">phd123</a></td>
-      <td>2024.08.31 ~ <b>Present</b></td>
-    </tr>
   </tbody>
 </table>
 
-## [9월 첫째주 활동 (9/1 ~ 9/7)](https://github.com/r3j0/BiGStudy-SurvivalAlgorithm/tree/main/2024-09-1)
-1. [(08.31) 😠 서바이벌 스터디 승급전](https://www.acmicpc.net/group/practice/view/21592/8) 연습문제 세트
-
-## (예정) 9월 둘째주 활동 (9/8 ~ 9/14)
+## (예정) 9월 둘째주 활동 (9/9 ~ 9/15)
 1. [Programmers - 2024 KAKAO WINTER INTERNSHIP](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464) 문제 세트
+
+<br>
+<hr>
+<br>
+
+### 이전 활동 내용
+> ### [9월 첫째주 활동 (9/1 ~ 9/7)](https://github.com/r3j0/BiGStudy-SurvivalAlgorithm/tree/main/2024-09-1)
+> 1. [(08.31) 😠 서바이벌 스터디 승급전](https://www.acmicpc.net/group/practice/view/21592/8) 연습문제 세트
 
 <br><br><br>
 <hr>
@@ -53,5 +52,9 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>phd123</td>
+      <td>2024.08.31 ~ 2024.09.08</td>
+    </tr>
   </tbody>
 </table>
