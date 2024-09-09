@@ -28,7 +28,7 @@
   </tbody>
 </table>
 
-## (예정) 9월 둘째주 활동 (9/9 ~ 9/15)
+## [9월 둘째주 활동 (9/9 ~ 9/15)](https://github.com/r3j0/BiGStudy-SurvivalAlgorithm/tree/main/2024-09-2)
 1. [Programmers - 2024 KAKAO WINTER INTERNSHIP](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464) 문제 세트
 
 <br>
