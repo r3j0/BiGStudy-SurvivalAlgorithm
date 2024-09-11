@@ -25,6 +25,12 @@
       <td><a href="https://solved.ac/profile/merrong925">merrong925</a></td>
       <td>2024.08.31 ~ <b>Present</b></td>
     </tr>
+    <tr>
+      <td>Member</td>
+      <td><image width="50" src="https://avatars.githubusercontent.com/u/83436753?v=4"></td>
+      <td><a href="https://solved.ac/profile/phd123">phd123</a></td>
+      <td>2024.08.31 ~ <b>Present</b></td>
+    </tr>
   </tbody>
 </table>
 
@@ -52,9 +58,5 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>phd123</td>
-      <td>2024.08.31 ~ 2024.09.08</td>
-    </tr>
   </tbody>
 </table>
