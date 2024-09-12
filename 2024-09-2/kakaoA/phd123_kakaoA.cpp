@@ -7,14 +7,14 @@ using namespace std;
 
 
 int solution(vector<string> friends, vector<string> gifts) {
-    int cnt = 0;
-    int table[50][50] = {0};
-    unordered_map<string, int> pindex;
-    unordered_map<string, int> gift_rate;
-    unordered_map<string, int> cnt_gift;
-    for(const string& s : friends) {
-    	pindex.insert(make_pair(s, cnt++));
-    	cnt_gift.insert(make_pair(s, 0));
+    	int cnt = 0;
+    	int table[50][50] = {0};
+    	unordered_map<string, int> pindex;
+    	unordered_map<string, int> gift_rate;
+    	unordered_map<string, int> cnt_gift;
+    	for(const string& s : friends) {
+    		pindex.insert(make_pair(s, cnt++));
+    		cnt_gift.insert(make_pair(s, 0));
 	}
 	for(const string& gift : gifts) {
 		istringstream ss(gift);
@@ -69,7 +69,7 @@ int solution(vector<string> friends, vector<string> gifts) {
 		}
 	}
     
-    return max;
+    	return max;
 }
 
 int main()
