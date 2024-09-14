@@ -1,6 +1,9 @@
 def solution(n, tops):
     answer = 0
     dp = [[0, 0] for _ in range(n)]
+    # dp[i][0] : i번째 정삼각형 줄까지 △, ◇, △▽ 를 사용했을 경우
+    # dp[i][1] : i번째 정삼각형 줄에 ▽△ 를 사용했을 경우 (다음 정삼각형 칸까지 차지할 경우)
+    
     if tops[0] == 0: dp[0] = [2, 1]
     else: dp[0] = [3, 1]
     
