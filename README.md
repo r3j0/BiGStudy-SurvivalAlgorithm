@@ -1,6 +1,6 @@
 # Baekjoon in Gachon - 😠 서바이벌 스터디
 > 백준 인 가천 커뮤니티에서 주관하는 서바이벌 스터디입니다.  
-> 알고리즘 문제 풀이 능력을 경쟁적으로 향상시키고자 하는 이 스터디는, 새로운 문제 세트에 도전하고 서로의 코드를 피드백하면서, 참여율에 따라서 탈락할 수도 있습니다!
+> 알고리즘 문제 풀이 능력을 경쟁적으로 향상시키고자 하는 이 스터디는, 다양한 문제에 도전하고 서로의 코드를 피드백하면서, 참여율에 따라서 탈락할 수도 있습니다!
 
 ## Study Member
 <table>
@@ -33,7 +33,15 @@
 <hr>
 <br>
 
+|Problem Queue|
+|--|
+|[23882번: 알고리즘 수업 - 선택 정렬 2](https://www.acmicpc.net/problem/23882)|
+
 ### 이전 활동 내용
+
+|Solved Problem|
+|--|
+
 > ### [9월 둘째주 활동 (9/9 ~ 9/15)](https://github.com/r3j0/BiGStudy-SurvivalAlgorithm/tree/main/2024-09-2)
 > 1. [Programmers - 2024 KAKAO WINTER INTERNSHIP](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464) 문제 세트
 > ### [9월 첫째주 활동 (9/1 ~ 9/7)](https://github.com/r3j0/BiGStudy-SurvivalAlgorithm/tree/main/2024-09-1)
