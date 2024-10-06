@@ -35,7 +35,7 @@
 
 |Problem Queue|
 |--|
-|[23882번: 알고리즘 수업 - 선택 정렬 2](https://www.acmicpc.net/problem/23882)|
+|${\textsf{\color{brown}(BRONZE I)}}$ [23882번: 알고리즘 수업 - 선택 정렬 2](https://www.acmicpc.net/problem/23882)|
 
 ### 이전 활동 내용
 
